@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login2_InvalidUname</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f18d3042-9de8-42cd-9a1a-308bad0127af</testCaseGuid>
+</TestCaseEntity>
